@@ -1,0 +1,49 @@
+/* Generated CSS from Bootstrap classes */
+
+/* Header */
+.bg-light {
+    background-color: #f8f9fa !important;
+}
+
+.py-3 {
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+}
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.d-flex {
+    display: flex !important;
+}
+
+.align-items-center {
+    align-items: center !important;
+}
+
+.mr-auto {
+    margin-right: auto !important;
+}
+
+.ml-3 {
+    margin-left: 1rem !important;
+}
+
+.ml-3,
+.mx-3 {
+    margin-left: 1rem !important;
+}
+
+
+.profile-icon img {
+    width: 30px; /* Adjust the width as needed */
+    height: 30px; /* Adjust the height as needed */
+    border-radius: 50%; /* Make the image circular */
+    margin-right: 5px; /* Add spacing between the image and text */
+}
+
